@@ -17,7 +17,7 @@ Ao longo de mais de quatro anos de experiência em análise de dados, tenho auxi
  ### Projetos 🎲
 
 - [Python CRUD - Sistema de gerenciamento de livros](https://github.com/guilhermeaoliver/python_crud)
-- [Projeto de Análise de Vibrações utilizando Raspberry Pi Pico W](vibration-analysis.streamlit.app)
+- [Projeto de Análise de Vibrações utilizando Raspberry Pi Pico W](https://vibration-analysis.streamlit.app)
   
 ### Posts em Blogs 📝
 
